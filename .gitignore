@@ -1,0 +1,22 @@
+#Archivos de entorno
+.env
+*.env
+
+#Datos y resultados temporales
+*.csv
+*.xlsx
+*.pkl
+*.db
+*.zip
+
+#Archivos de notebook temporales
+.ipynb_checkpoints/__pycache__/
+
+#Archivos del sistema
+.DS_Store
+Thumbs.db
+
+#Carpetas opcionales que no deben subirse
+data/
+plots/
+docs/
