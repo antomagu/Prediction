@@ -81,3 +81,14 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+
+
+
+
+#Licencia
+Este proyecto está bajo la licencia MIT.
+
+
+## Autor
+Antonio G
+Linkedin
